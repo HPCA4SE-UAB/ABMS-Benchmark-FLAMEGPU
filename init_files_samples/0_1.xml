@@ -1,0 +1,10011 @@
+<states>
+<itno>0</itno>
+<environment>
+	<height>300</height>
+	<width>300</width>
+	<radius>10</radius>
+</environment>
+<agents>
+<xagent>
+	<name>person</name>
+	<my_id>0</my_id>
+	<x>156</x>
+	<y>285</y>
+       <z>148</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>1</my_id>
+	<x>65</x>
+	<y>295</y>
+       <z>155</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>2</my_id>
+	<x>78</x>
+	<y>68</y>
+       <z>107</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>3</my_id>
+	<x>247</x>
+	<y>68</y>
+       <z>156</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>4</my_id>
+	<x>221</x>
+	<y>89</y>
+       <z>236</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>5</my_id>
+	<x>131</x>
+	<y>119</y>
+       <z>171</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>6</my_id>
+	<x>4</x>
+	<y>24</y>
+       <z>160</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>7</my_id>
+	<x>182</x>
+	<y>28</y>
+       <z>142</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>8</my_id>
+	<x>145</x>
+	<y>191</y>
+       <z>194</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>9</my_id>
+	<x>242</x>
+	<y>142</y>
+       <z>43</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>10</my_id>
+	<x>99</x>
+	<y>131</y>
+       <z>29</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>11</my_id>
+	<x>80</x>
+	<y>30</y>
+       <z>25</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>12</my_id>
+	<x>235</x>
+	<y>108</y>
+       <z>225</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>13</my_id>
+	<x>176</x>
+	<y>188</y>
+       <z>127</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>14</my_id>
+	<x>33</x>
+	<y>111</y>
+       <z>216</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>15</my_id>
+	<x>270</x>
+	<y>75</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>16</my_id>
+	<x>142</x>
+	<y>211</y>
+       <z>193</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>17</my_id>
+	<x>136</x>
+	<y>95</y>
+       <z>54</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>18</my_id>
+	<x>278</x>
+	<y>73</y>
+       <z>78</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>19</my_id>
+	<x>6</x>
+	<y>149</y>
+       <z>54</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>20</my_id>
+	<x>49</x>
+	<y>81</y>
+       <z>18</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>21</my_id>
+	<x>78</x>
+	<y>161</y>
+       <z>48</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>22</my_id>
+	<x>235</x>
+	<y>230</y>
+       <z>289</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>23</my_id>
+	<x>294</x>
+	<y>107</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>24</my_id>
+	<x>254</x>
+	<y>140</y>
+       <z>122</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>25</my_id>
+	<x>4</x>
+	<y>111</y>
+       <z>30</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>26</my_id>
+	<x>173</x>
+	<y>87</y>
+       <z>242</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>27</my_id>
+	<x>199</x>
+	<y>56</y>
+       <z>170</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>28</my_id>
+	<x>254</x>
+	<y>35</y>
+       <z>243</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>29</my_id>
+	<x>165</x>
+	<y>174</y>
+       <z>93</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>30</my_id>
+	<x>219</x>
+	<y>223</y>
+       <z>174</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>31</my_id>
+	<x>238</x>
+	<y>135</y>
+       <z>37</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>32</my_id>
+	<x>119</x>
+	<y>71</y>
+       <z>267</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>33</my_id>
+	<x>241</x>
+	<y>198</y>
+       <z>75</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>34</my_id>
+	<x>121</x>
+	<y>153</y>
+       <z>215</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>35</my_id>
+	<x>76</x>
+	<y>158</y>
+       <z>160</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>36</my_id>
+	<x>107</x>
+	<y>32</y>
+       <z>80</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>37</my_id>
+	<x>50</x>
+	<y>232</y>
+       <z>136</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>38</my_id>
+	<x>220</x>
+	<y>20</y>
+       <z>4</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>39</my_id>
+	<x>164</x>
+	<y>18</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>40</my_id>
+	<x>91</x>
+	<y>238</y>
+       <z>235</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>41</my_id>
+	<x>265</x>
+	<y>10</y>
+       <z>71</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>42</my_id>
+	<x>135</x>
+	<y>261</y>
+       <z>274</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>43</my_id>
+	<x>103</x>
+	<y>204</y>
+       <z>174</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>44</my_id>
+	<x>11</x>
+	<y>158</y>
+       <z>28</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>45</my_id>
+	<x>60</x>
+	<y>234</y>
+       <z>19</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>46</my_id>
+	<x>53</x>
+	<y>174</y>
+       <z>52</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>47</my_id>
+	<x>133</x>
+	<y>224</y>
+       <z>117</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>48</my_id>
+	<x>102</x>
+	<y>277</y>
+       <z>269</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>49</my_id>
+	<x>106</x>
+	<y>275</y>
+       <z>287</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>50</my_id>
+	<x>118</x>
+	<y>67</y>
+       <z>59</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>51</my_id>
+	<x>54</x>
+	<y>165</y>
+       <z>201</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>52</my_id>
+	<x>125</x>
+	<y>2</y>
+       <z>164</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>53</my_id>
+	<x>100</x>
+	<y>105</y>
+       <z>201</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>54</my_id>
+	<x>274</x>
+	<y>249</y>
+       <z>60</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>55</my_id>
+	<x>136</x>
+	<y>10</y>
+       <z>127</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>56</my_id>
+	<x>155</x>
+	<y>63</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>57</my_id>
+	<x>40</x>
+	<y>29</y>
+       <z>227</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>58</my_id>
+	<x>289</x>
+	<y>131</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>59</my_id>
+	<x>92</x>
+	<y>237</y>
+       <z>15</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>60</my_id>
+	<x>81</x>
+	<y>56</y>
+       <z>214</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>61</my_id>
+	<x>272</x>
+	<y>110</y>
+       <z>80</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>62</my_id>
+	<x>8</x>
+	<y>235</y>
+       <z>82</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>63</my_id>
+	<x>172</x>
+	<y>169</y>
+       <z>21</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>64</my_id>
+	<x>206</x>
+	<y>144</y>
+       <z>270</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>65</my_id>
+	<x>266</x>
+	<y>113</y>
+       <z>113</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>66</my_id>
+	<x>94</x>
+	<y>102</y>
+       <z>176</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>67</my_id>
+	<x>229</x>
+	<y>142</y>
+       <z>205</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>68</my_id>
+	<x>290</x>
+	<y>265</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>69</my_id>
+	<x>30</x>
+	<y>58</y>
+       <z>107</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>70</my_id>
+	<x>177</x>
+	<y>271</y>
+       <z>296</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>71</my_id>
+	<x>92</x>
+	<y>78</y>
+       <z>239</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>72</my_id>
+	<x>5</x>
+	<y>86</y>
+       <z>9</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>73</my_id>
+	<x>220</x>
+	<y>91</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>74</my_id>
+	<x>74</x>
+	<y>297</y>
+       <z>155</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>75</my_id>
+	<x>177</x>
+	<y>97</y>
+       <z>269</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>76</my_id>
+	<x>290</x>
+	<y>24</y>
+       <z>72</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>77</my_id>
+	<x>0</x>
+	<y>254</y>
+       <z>47</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>78</my_id>
+	<x>38</x>
+	<y>245</y>
+       <z>13</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>79</my_id>
+	<x>207</x>
+	<y>275</y>
+       <z>72</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>80</my_id>
+	<x>147</x>
+	<y>285</y>
+       <z>176</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>81</my_id>
+	<x>144</x>
+	<y>78</y>
+       <z>254</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>82</my_id>
+	<x>85</x>
+	<y>215</y>
+       <z>41</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>83</my_id>
+	<x>94</x>
+	<y>136</y>
+       <z>132</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>84</my_id>
+	<x>272</x>
+	<y>210</y>
+       <z>130</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>85</my_id>
+	<x>128</x>
+	<y>220</y>
+       <z>227</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>86</my_id>
+	<x>230</x>
+	<y>211</y>
+       <z>252</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>87</my_id>
+	<x>3</x>
+	<y>211</y>
+       <z>40</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>88</my_id>
+	<x>51</x>
+	<y>82</y>
+       <z>285</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>89</my_id>
+	<x>64</x>
+	<y>289</y>
+       <z>261</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>90</my_id>
+	<x>268</x>
+	<y>138</y>
+       <z>247</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>91</my_id>
+	<x>146</x>
+	<y>115</y>
+       <z>158</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>92</my_id>
+	<x>233</x>
+	<y>33</y>
+       <z>206</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>93</my_id>
+	<x>275</x>
+	<y>127</y>
+       <z>176</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>94</my_id>
+	<x>108</x>
+	<y>232</y>
+       <z>219</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>95</my_id>
+	<x>72</x>
+	<y>194</y>
+       <z>141</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>96</my_id>
+	<x>132</x>
+	<y>125</y>
+       <z>53</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>97</my_id>
+	<x>217</x>
+	<y>261</y>
+       <z>98</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>98</my_id>
+	<x>257</x>
+	<y>13</y>
+       <z>180</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>99</my_id>
+	<x>243</x>
+	<y>209</y>
+       <z>4</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>100</my_id>
+	<x>38</x>
+	<y>12</y>
+       <z>274</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>101</my_id>
+	<x>118</x>
+	<y>290</y>
+       <z>222</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>102</my_id>
+	<x>109</x>
+	<y>224</y>
+       <z>256</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>103</my_id>
+	<x>17</x>
+	<y>33</y>
+       <z>84</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>104</my_id>
+	<x>193</x>
+	<y>274</y>
+       <z>150</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>105</my_id>
+	<x>245</x>
+	<y>47</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>106</my_id>
+	<x>87</x>
+	<y>179</y>
+       <z>135</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>107</my_id>
+	<x>273</x>
+	<y>230</y>
+       <z>97</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>108</my_id>
+	<x>72</x>
+	<y>188</y>
+       <z>242</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>109</my_id>
+	<x>85</x>
+	<y>265</y>
+       <z>285</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>110</my_id>
+	<x>221</x>
+	<y>4</y>
+       <z>130</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>111</my_id>
+	<x>196</x>
+	<y>255</y>
+       <z>121</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>112</my_id>
+	<x>120</x>
+	<y>65</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>113</my_id>
+	<x>209</x>
+	<y>214</y>
+       <z>212</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>114</my_id>
+	<x>293</x>
+	<y>240</y>
+       <z>187</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>115</my_id>
+	<x>276</x>
+	<y>187</y>
+       <z>67</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>116</my_id>
+	<x>154</x>
+	<y>274</y>
+       <z>79</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>117</my_id>
+	<x>290</x>
+	<y>248</y>
+       <z>10</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>118</my_id>
+	<x>220</x>
+	<y>153</y>
+       <z>199</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>119</my_id>
+	<x>164</x>
+	<y>72</y>
+       <z>165</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>120</my_id>
+	<x>282</x>
+	<y>293</y>
+       <z>2</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>121</my_id>
+	<x>113</x>
+	<y>24</y>
+       <z>257</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>122</my_id>
+	<x>67</x>
+	<y>276</y>
+       <z>24</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>123</my_id>
+	<x>245</x>
+	<y>186</y>
+       <z>238</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>124</my_id>
+	<x>290</x>
+	<y>13</y>
+       <z>13</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>125</my_id>
+	<x>178</x>
+	<y>290</y>
+       <z>200</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>126</my_id>
+	<x>245</x>
+	<y>277</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>127</my_id>
+	<x>158</x>
+	<y>101</y>
+       <z>90</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>128</my_id>
+	<x>168</x>
+	<y>155</y>
+       <z>243</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>129</my_id>
+	<x>200</x>
+	<y>152</y>
+       <z>148</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>130</my_id>
+	<x>66</x>
+	<y>135</y>
+       <z>143</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>131</my_id>
+	<x>201</x>
+	<y>248</y>
+       <z>167</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>132</my_id>
+	<x>159</x>
+	<y>148</y>
+       <z>276</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>133</my_id>
+	<x>16</x>
+	<y>94</y>
+       <z>163</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>134</my_id>
+	<x>88</x>
+	<y>86</y>
+       <z>176</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>135</my_id>
+	<x>101</x>
+	<y>97</y>
+       <z>0</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>136</my_id>
+	<x>2</x>
+	<y>176</y>
+       <z>111</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>137</my_id>
+	<x>142</x>
+	<y>35</y>
+       <z>212</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>138</my_id>
+	<x>232</x>
+	<y>203</y>
+       <z>68</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>139</my_id>
+	<x>10</x>
+	<y>105</y>
+       <z>53</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>140</my_id>
+	<x>158</x>
+	<y>4</y>
+       <z>188</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>141</my_id>
+	<x>2</x>
+	<y>205</y>
+       <z>269</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>142</my_id>
+	<x>2</x>
+	<y>66</y>
+       <z>118</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>143</my_id>
+	<x>278</x>
+	<y>214</y>
+       <z>46</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>144</my_id>
+	<x>274</x>
+	<y>3</y>
+       <z>132</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>145</my_id>
+	<x>152</x>
+	<y>104</y>
+       <z>62</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>146</my_id>
+	<x>284</x>
+	<y>238</y>
+       <z>238</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>147</my_id>
+	<x>96</x>
+	<y>214</y>
+       <z>273</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>148</my_id>
+	<x>142</x>
+	<y>147</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>149</my_id>
+	<x>43</x>
+	<y>157</y>
+       <z>116</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>150</my_id>
+	<x>97</x>
+	<y>17</y>
+       <z>120</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>151</my_id>
+	<x>118</x>
+	<y>151</y>
+       <z>159</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>152</my_id>
+	<x>89</x>
+	<y>286</y>
+       <z>58</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>153</my_id>
+	<x>40</x>
+	<y>98</y>
+       <z>272</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>154</my_id>
+	<x>86</x>
+	<y>74</y>
+       <z>276</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>155</my_id>
+	<x>51</x>
+	<y>59</y>
+       <z>213</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>156</my_id>
+	<x>114</x>
+	<y>44</y>
+       <z>285</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>157</my_id>
+	<x>53</x>
+	<y>273</y>
+       <z>200</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>158</my_id>
+	<x>160</x>
+	<y>116</y>
+       <z>48</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>159</my_id>
+	<x>39</x>
+	<y>291</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>160</my_id>
+	<x>287</x>
+	<y>89</y>
+       <z>188</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>161</my_id>
+	<x>108</x>
+	<y>208</y>
+       <z>40</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>162</my_id>
+	<x>100</x>
+	<y>130</y>
+       <z>27</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>163</my_id>
+	<x>158</x>
+	<y>3</y>
+       <z>258</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>164</my_id>
+	<x>132</x>
+	<y>90</y>
+       <z>33</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>165</my_id>
+	<x>109</x>
+	<y>273</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>166</my_id>
+	<x>155</x>
+	<y>88</y>
+       <z>268</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>167</my_id>
+	<x>141</x>
+	<y>274</y>
+       <z>75</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>168</my_id>
+	<x>42</x>
+	<y>135</y>
+       <z>191</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>169</my_id>
+	<x>223</x>
+	<y>7</y>
+       <z>184</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>170</my_id>
+	<x>95</x>
+	<y>294</y>
+       <z>106</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>171</my_id>
+	<x>283</x>
+	<y>235</y>
+       <z>147</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>172</my_id>
+	<x>156</x>
+	<y>37</y>
+       <z>277</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>173</my_id>
+	<x>17</x>
+	<y>195</y>
+       <z>281</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>174</my_id>
+	<x>275</x>
+	<y>160</y>
+       <z>204</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>175</my_id>
+	<x>9</x>
+	<y>102</y>
+       <z>11</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>176</my_id>
+	<x>233</x>
+	<y>258</y>
+       <z>232</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>177</my_id>
+	<x>35</x>
+	<y>232</y>
+       <z>207</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>178</my_id>
+	<x>111</x>
+	<y>108</y>
+       <z>175</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>179</my_id>
+	<x>135</x>
+	<y>32</y>
+       <z>15</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>180</my_id>
+	<x>152</x>
+	<y>259</y>
+       <z>10</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>181</my_id>
+	<x>259</x>
+	<y>243</y>
+       <z>78</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>182</my_id>
+	<x>107</x>
+	<y>100</y>
+       <z>247</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>183</my_id>
+	<x>218</x>
+	<y>117</y>
+       <z>144</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>184</my_id>
+	<x>33</x>
+	<y>93</y>
+       <z>5</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>185</my_id>
+	<x>70</x>
+	<y>234</y>
+       <z>108</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>186</my_id>
+	<x>81</x>
+	<y>1</y>
+       <z>199</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>187</my_id>
+	<x>146</x>
+	<y>169</y>
+       <z>132</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>188</my_id>
+	<x>186</x>
+	<y>280</y>
+       <z>240</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>189</my_id>
+	<x>62</x>
+	<y>248</y>
+       <z>105</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>190</my_id>
+	<x>77</x>
+	<y>102</y>
+       <z>65</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>191</my_id>
+	<x>219</x>
+	<y>194</y>
+       <z>141</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>192</my_id>
+	<x>131</x>
+	<y>134</y>
+       <z>242</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>193</my_id>
+	<x>79</x>
+	<y>185</y>
+       <z>192</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>194</my_id>
+	<x>56</x>
+	<y>218</y>
+       <z>119</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>195</my_id>
+	<x>194</x>
+	<y>288</y>
+       <z>186</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>196</my_id>
+	<x>135</x>
+	<y>203</y>
+       <z>188</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>197</my_id>
+	<x>35</x>
+	<y>50</y>
+       <z>190</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>198</my_id>
+	<x>167</x>
+	<y>237</y>
+       <z>171</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>199</my_id>
+	<x>241</x>
+	<y>132</y>
+       <z>252</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>200</my_id>
+	<x>179</x>
+	<y>43</y>
+       <z>55</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>201</my_id>
+	<x>245</x>
+	<y>95</y>
+       <z>82</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>202</my_id>
+	<x>87</x>
+	<y>226</y>
+       <z>217</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>203</my_id>
+	<x>162</x>
+	<y>139</y>
+       <z>103</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>204</my_id>
+	<x>188</x>
+	<y>195</y>
+       <z>155</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>205</my_id>
+	<x>8</x>
+	<y>90</y>
+       <z>276</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>206</my_id>
+	<x>194</x>
+	<y>225</y>
+       <z>180</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>207</my_id>
+	<x>215</x>
+	<y>260</y>
+       <z>64</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>208</my_id>
+	<x>106</x>
+	<y>261</y>
+       <z>134</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>209</my_id>
+	<x>110</x>
+	<y>36</y>
+       <z>266</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>210</my_id>
+	<x>64</x>
+	<y>215</y>
+       <z>142</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>211</my_id>
+	<x>251</x>
+	<y>293</y>
+       <z>238</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>212</my_id>
+	<x>35</x>
+	<y>82</y>
+       <z>297</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>213</my_id>
+	<x>85</x>
+	<y>77</y>
+       <z>137</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>214</my_id>
+	<x>21</x>
+	<y>265</y>
+       <z>34</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>215</my_id>
+	<x>176</x>
+	<y>106</y>
+       <z>256</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>216</my_id>
+	<x>154</x>
+	<y>2</y>
+       <z>183</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>217</my_id>
+	<x>167</x>
+	<y>50</y>
+       <z>276</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>218</my_id>
+	<x>64</x>
+	<y>289</y>
+       <z>71</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>219</my_id>
+	<x>198</x>
+	<y>100</y>
+       <z>239</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>220</my_id>
+	<x>298</x>
+	<y>296</y>
+       <z>156</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>221</my_id>
+	<x>141</x>
+	<y>249</y>
+       <z>150</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>222</my_id>
+	<x>212</x>
+	<y>117</y>
+       <z>65</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>223</my_id>
+	<x>211</x>
+	<y>35</y>
+       <z>275</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>224</my_id>
+	<x>181</x>
+	<y>56</y>
+       <z>241</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>225</my_id>
+	<x>215</x>
+	<y>233</y>
+       <z>181</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>226</my_id>
+	<x>6</x>
+	<y>220</y>
+       <z>183</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>227</my_id>
+	<x>22</x>
+	<y>88</y>
+       <z>66</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>228</my_id>
+	<x>131</x>
+	<y>153</y>
+       <z>56</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>229</my_id>
+	<x>203</x>
+	<y>184</y>
+       <z>289</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>230</my_id>
+	<x>143</x>
+	<y>183</y>
+       <z>286</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>231</my_id>
+	<x>132</x>
+	<y>158</y>
+       <z>69</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>232</my_id>
+	<x>116</x>
+	<y>71</y>
+       <z>19</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>233</my_id>
+	<x>14</x>
+	<y>115</y>
+       <z>54</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>234</my_id>
+	<x>289</x>
+	<y>297</y>
+       <z>111</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>235</my_id>
+	<x>65</x>
+	<y>46</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>236</my_id>
+	<x>246</x>
+	<y>52</y>
+       <z>98</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>237</my_id>
+	<x>262</x>
+	<y>74</y>
+       <z>19</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>238</my_id>
+	<x>29</x>
+	<y>206</y>
+       <z>172</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>239</my_id>
+	<x>218</x>
+	<y>242</y>
+       <z>58</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>240</my_id>
+	<x>208</x>
+	<y>218</y>
+       <z>74</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>241</my_id>
+	<x>28</x>
+	<y>184</y>
+       <z>65</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>242</my_id>
+	<x>98</x>
+	<y>1</y>
+       <z>269</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>243</my_id>
+	<x>249</x>
+	<y>15</y>
+       <z>85</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>244</my_id>
+	<x>5</x>
+	<y>138</y>
+       <z>215</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>245</my_id>
+	<x>248</x>
+	<y>203</y>
+       <z>95</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>246</my_id>
+	<x>258</x>
+	<y>150</y>
+       <z>147</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>247</my_id>
+	<x>57</x>
+	<y>113</y>
+       <z>55</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>248</my_id>
+	<x>208</x>
+	<y>274</y>
+       <z>94</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>249</my_id>
+	<x>82</x>
+	<y>193</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>250</my_id>
+	<x>272</x>
+	<y>234</y>
+       <z>88</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>251</my_id>
+	<x>179</x>
+	<y>263</y>
+       <z>272</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>252</my_id>
+	<x>245</x>
+	<y>194</y>
+       <z>106</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>253</my_id>
+	<x>215</x>
+	<y>144</y>
+       <z>254</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>254</my_id>
+	<x>133</x>
+	<y>281</y>
+       <z>93</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>255</my_id>
+	<x>50</x>
+	<y>63</y>
+       <z>296</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>256</my_id>
+	<x>145</x>
+	<y>154</y>
+       <z>279</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>257</my_id>
+	<x>125</x>
+	<y>44</y>
+       <z>93</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>258</my_id>
+	<x>13</x>
+	<y>253</y>
+       <z>68</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>259</my_id>
+	<x>107</x>
+	<y>36</y>
+       <z>95</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>260</my_id>
+	<x>276</x>
+	<y>141</y>
+       <z>30</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>261</my_id>
+	<x>198</x>
+	<y>21</y>
+       <z>126</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>262</my_id>
+	<x>4</x>
+	<y>99</y>
+       <z>21</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>263</my_id>
+	<x>243</x>
+	<y>15</y>
+       <z>298</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>264</my_id>
+	<x>198</x>
+	<y>149</y>
+       <z>113</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>265</my_id>
+	<x>291</x>
+	<y>32</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>266</my_id>
+	<x>121</x>
+	<y>177</y>
+       <z>32</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>267</my_id>
+	<x>101</x>
+	<y>135</y>
+       <z>77</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>268</my_id>
+	<x>194</x>
+	<y>149</y>
+       <z>163</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>269</my_id>
+	<x>95</x>
+	<y>256</y>
+       <z>32</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>270</my_id>
+	<x>23</x>
+	<y>67</y>
+       <z>173</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>271</my_id>
+	<x>186</x>
+	<y>265</y>
+       <z>27</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>272</my_id>
+	<x>13</x>
+	<y>102</y>
+       <z>127</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>273</my_id>
+	<x>35</x>
+	<y>46</y>
+       <z>142</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>274</my_id>
+	<x>34</x>
+	<y>244</y>
+       <z>124</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>275</my_id>
+	<x>147</x>
+	<y>69</y>
+       <z>156</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>276</my_id>
+	<x>157</x>
+	<y>190</y>
+       <z>166</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>277</my_id>
+	<x>23</x>
+	<y>291</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>278</my_id>
+	<x>232</x>
+	<y>19</y>
+       <z>152</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>279</my_id>
+	<x>96</x>
+	<y>247</y>
+       <z>241</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>280</my_id>
+	<x>128</x>
+	<y>270</y>
+       <z>9</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>281</my_id>
+	<x>134</x>
+	<y>157</y>
+       <z>107</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>282</my_id>
+	<x>161</x>
+	<y>171</y>
+       <z>210</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>283</my_id>
+	<x>121</x>
+	<y>39</y>
+       <z>256</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>284</my_id>
+	<x>97</x>
+	<y>205</y>
+       <z>35</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>285</my_id>
+	<x>221</x>
+	<y>53</y>
+       <z>104</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>286</my_id>
+	<x>79</x>
+	<y>44</y>
+       <z>295</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>287</my_id>
+	<x>78</x>
+	<y>199</y>
+       <z>287</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>288</my_id>
+	<x>81</x>
+	<y>132</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>289</my_id>
+	<x>233</x>
+	<y>61</y>
+       <z>88</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>290</my_id>
+	<x>176</x>
+	<y>189</y>
+       <z>59</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>291</my_id>
+	<x>18</x>
+	<y>24</y>
+       <z>50</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>292</my_id>
+	<x>126</x>
+	<y>18</y>
+       <z>221</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>293</my_id>
+	<x>169</x>
+	<y>140</y>
+       <z>260</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>294</my_id>
+	<x>258</x>
+	<y>237</y>
+       <z>166</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>295</my_id>
+	<x>293</x>
+	<y>291</y>
+       <z>52</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>296</my_id>
+	<x>99</x>
+	<y>203</y>
+       <z>228</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>297</my_id>
+	<x>227</x>
+	<y>282</y>
+       <z>128</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>298</my_id>
+	<x>48</x>
+	<y>64</y>
+       <z>260</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>299</my_id>
+	<x>188</x>
+	<y>131</y>
+       <z>22</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>300</my_id>
+	<x>276</x>
+	<y>140</y>
+       <z>44</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>301</my_id>
+	<x>37</x>
+	<y>158</y>
+       <z>200</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>302</my_id>
+	<x>87</x>
+	<y>117</y>
+       <z>219</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>303</my_id>
+	<x>141</x>
+	<y>119</y>
+       <z>192</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>304</my_id>
+	<x>234</x>
+	<y>79</y>
+       <z>262</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>305</my_id>
+	<x>233</x>
+	<y>205</y>
+       <z>254</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>306</my_id>
+	<x>118</x>
+	<y>137</y>
+       <z>159</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>307</my_id>
+	<x>48</x>
+	<y>65</y>
+       <z>142</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>308</my_id>
+	<x>9</x>
+	<y>114</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>309</my_id>
+	<x>270</x>
+	<y>3</y>
+       <z>170</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>310</my_id>
+	<x>125</x>
+	<y>113</y>
+       <z>11</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>311</my_id>
+	<x>3</x>
+	<y>150</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>312</my_id>
+	<x>203</x>
+	<y>70</y>
+       <z>120</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>313</my_id>
+	<x>255</x>
+	<y>44</y>
+       <z>73</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>314</my_id>
+	<x>280</x>
+	<y>278</y>
+       <z>152</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>315</my_id>
+	<x>243</x>
+	<y>45</y>
+       <z>58</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>316</my_id>
+	<x>32</x>
+	<y>163</y>
+       <z>29</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>317</my_id>
+	<x>24</x>
+	<y>211</y>
+       <z>94</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>318</my_id>
+	<x>298</x>
+	<y>221</y>
+       <z>41</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>319</my_id>
+	<x>38</x>
+	<y>25</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>320</my_id>
+	<x>209</x>
+	<y>282</y>
+       <z>290</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>321</my_id>
+	<x>53</x>
+	<y>118</y>
+       <z>273</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>322</my_id>
+	<x>56</x>
+	<y>155</y>
+       <z>176</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>323</my_id>
+	<x>10</x>
+	<y>243</y>
+       <z>220</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>324</my_id>
+	<x>215</x>
+	<y>225</y>
+       <z>199</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>325</my_id>
+	<x>68</x>
+	<y>2</y>
+       <z>244</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>326</my_id>
+	<x>258</x>
+	<y>166</y>
+       <z>240</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>327</my_id>
+	<x>120</x>
+	<y>190</y>
+       <z>285</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>328</my_id>
+	<x>215</x>
+	<y>189</y>
+       <z>40</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>329</my_id>
+	<x>89</x>
+	<y>61</y>
+       <z>65</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>330</my_id>
+	<x>99</x>
+	<y>103</y>
+       <z>180</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>331</my_id>
+	<x>222</x>
+	<y>156</y>
+       <z>132</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>332</my_id>
+	<x>196</x>
+	<y>46</y>
+       <z>287</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>333</my_id>
+	<x>73</x>
+	<y>188</y>
+       <z>231</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>334</my_id>
+	<x>126</x>
+	<y>104</y>
+       <z>289</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>335</my_id>
+	<x>158</x>
+	<y>5</y>
+       <z>292</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>336</my_id>
+	<x>235</x>
+	<y>96</y>
+       <z>159</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>337</my_id>
+	<x>177</x>
+	<y>217</y>
+       <z>183</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>338</my_id>
+	<x>163</x>
+	<y>265</y>
+       <z>205</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>339</my_id>
+	<x>203</x>
+	<y>55</y>
+       <z>266</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>340</my_id>
+	<x>101</x>
+	<y>155</y>
+       <z>70</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>341</my_id>
+	<x>114</x>
+	<y>210</y>
+       <z>60</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>342</my_id>
+	<x>246</x>
+	<y>108</y>
+       <z>106</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>343</my_id>
+	<x>234</x>
+	<y>14</y>
+       <z>294</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>344</my_id>
+	<x>0</x>
+	<y>141</y>
+       <z>231</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>345</my_id>
+	<x>289</x>
+	<y>0</y>
+       <z>236</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>346</my_id>
+	<x>282</x>
+	<y>236</y>
+       <z>33</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>347</my_id>
+	<x>275</x>
+	<y>246</y>
+       <z>250</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>348</my_id>
+	<x>291</x>
+	<y>110</y>
+       <z>216</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>349</my_id>
+	<x>197</x>
+	<y>146</y>
+       <z>105</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>350</my_id>
+	<x>165</x>
+	<y>247</y>
+       <z>93</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>351</my_id>
+	<x>68</x>
+	<y>62</y>
+       <z>4</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>352</my_id>
+	<x>128</x>
+	<y>142</y>
+       <z>244</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>353</my_id>
+	<x>234</x>
+	<y>77</y>
+       <z>259</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>354</my_id>
+	<x>62</x>
+	<y>209</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>355</my_id>
+	<x>293</x>
+	<y>200</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>356</my_id>
+	<x>63</x>
+	<y>16</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>357</my_id>
+	<x>229</x>
+	<y>124</y>
+       <z>249</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>358</my_id>
+	<x>180</x>
+	<y>116</y>
+       <z>192</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>359</my_id>
+	<x>230</x>
+	<y>15</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>360</my_id>
+	<x>36</x>
+	<y>13</y>
+       <z>119</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>361</my_id>
+	<x>261</x>
+	<y>81</y>
+       <z>15</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>362</my_id>
+	<x>265</x>
+	<y>43</y>
+       <z>157</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>363</my_id>
+	<x>211</x>
+	<y>277</y>
+       <z>67</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>364</my_id>
+	<x>4</x>
+	<y>173</y>
+       <z>277</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>365</my_id>
+	<x>237</x>
+	<y>0</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>366</my_id>
+	<x>4</x>
+	<y>64</y>
+       <z>194</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>367</my_id>
+	<x>140</x>
+	<y>293</y>
+       <z>20</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>368</my_id>
+	<x>222</x>
+	<y>7</y>
+       <z>268</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>369</my_id>
+	<x>116</x>
+	<y>70</y>
+       <z>116</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>370</my_id>
+	<x>287</x>
+	<y>238</y>
+       <z>129</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>371</my_id>
+	<x>108</x>
+	<y>200</y>
+       <z>44</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>372</my_id>
+	<x>123</x>
+	<y>0</y>
+       <z>87</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>373</my_id>
+	<x>280</x>
+	<y>211</y>
+       <z>197</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>374</my_id>
+	<x>48</x>
+	<y>48</y>
+       <z>71</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>375</my_id>
+	<x>158</x>
+	<y>285</y>
+       <z>204</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>376</my_id>
+	<x>37</x>
+	<y>289</y>
+       <z>268</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>377</my_id>
+	<x>65</x>
+	<y>262</y>
+       <z>95</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>378</my_id>
+	<x>217</x>
+	<y>186</y>
+       <z>234</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>379</my_id>
+	<x>186</x>
+	<y>3</y>
+       <z>6</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>380</my_id>
+	<x>4</x>
+	<y>290</y>
+       <z>244</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>381</my_id>
+	<x>265</x>
+	<y>99</y>
+       <z>278</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>382</my_id>
+	<x>10</x>
+	<y>55</y>
+       <z>278</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>383</my_id>
+	<x>229</x>
+	<y>36</y>
+       <z>23</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>384</my_id>
+	<x>128</x>
+	<y>217</y>
+       <z>71</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>385</my_id>
+	<x>32</x>
+	<y>76</y>
+       <z>57</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>386</my_id>
+	<x>236</x>
+	<y>246</y>
+       <z>179</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>387</my_id>
+	<x>38</x>
+	<y>144</y>
+       <z>143</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>388</my_id>
+	<x>265</x>
+	<y>62</y>
+       <z>162</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>389</my_id>
+	<x>201</x>
+	<y>81</y>
+       <z>165</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>390</my_id>
+	<x>40</x>
+	<y>217</y>
+       <z>288</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>391</my_id>
+	<x>117</x>
+	<y>184</y>
+       <z>221</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>392</my_id>
+	<x>96</x>
+	<y>27</y>
+       <z>276</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>393</my_id>
+	<x>75</x>
+	<y>90</y>
+       <z>146</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>394</my_id>
+	<x>98</x>
+	<y>218</y>
+       <z>64</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>395</my_id>
+	<x>169</x>
+	<y>83</y>
+       <z>272</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>396</my_id>
+	<x>59</x>
+	<y>153</y>
+       <z>52</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>397</my_id>
+	<x>72</x>
+	<y>191</y>
+       <z>196</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>398</my_id>
+	<x>215</x>
+	<y>158</y>
+       <z>91</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>399</my_id>
+	<x>78</x>
+	<y>192</y>
+       <z>6</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>400</my_id>
+	<x>76</x>
+	<y>232</y>
+       <z>223</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>401</my_id>
+	<x>65</x>
+	<y>50</y>
+       <z>240</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>402</my_id>
+	<x>119</x>
+	<y>279</y>
+       <z>101</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>403</my_id>
+	<x>97</x>
+	<y>55</y>
+       <z>191</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>404</my_id>
+	<x>243</x>
+	<y>286</y>
+       <z>242</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>405</my_id>
+	<x>140</x>
+	<y>156</y>
+       <z>26</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>406</my_id>
+	<x>245</x>
+	<y>49</y>
+       <z>12</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>407</my_id>
+	<x>298</x>
+	<y>121</y>
+       <z>204</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>408</my_id>
+	<x>28</x>
+	<y>169</y>
+       <z>195</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>409</my_id>
+	<x>120</x>
+	<y>80</y>
+       <z>220</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>410</my_id>
+	<x>126</x>
+	<y>156</y>
+       <z>285</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>411</my_id>
+	<x>182</x>
+	<y>54</y>
+       <z>168</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>412</my_id>
+	<x>256</x>
+	<y>174</y>
+       <z>148</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>413</my_id>
+	<x>58</x>
+	<y>104</y>
+       <z>37</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>414</my_id>
+	<x>249</x>
+	<y>180</y>
+       <z>24</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>415</my_id>
+	<x>25</x>
+	<y>21</y>
+       <z>13</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>416</my_id>
+	<x>183</x>
+	<y>266</y>
+       <z>62</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>417</my_id>
+	<x>196</x>
+	<y>98</y>
+       <z>183</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>418</my_id>
+	<x>233</x>
+	<y>127</y>
+       <z>53</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>419</my_id>
+	<x>129</x>
+	<y>80</y>
+       <z>133</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>420</my_id>
+	<x>182</x>
+	<y>206</y>
+       <z>122</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>421</my_id>
+	<x>168</x>
+	<y>221</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>422</my_id>
+	<x>37</x>
+	<y>178</y>
+       <z>184</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>423</my_id>
+	<x>186</x>
+	<y>236</y>
+       <z>288</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>424</my_id>
+	<x>56</x>
+	<y>19</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>425</my_id>
+	<x>80</x>
+	<y>176</y>
+       <z>23</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>426</my_id>
+	<x>93</x>
+	<y>61</y>
+       <z>122</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>427</my_id>
+	<x>156</x>
+	<y>257</y>
+       <z>221</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>428</my_id>
+	<x>172</x>
+	<y>24</y>
+       <z>49</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>429</my_id>
+	<x>226</x>
+	<y>153</y>
+       <z>129</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>430</my_id>
+	<x>192</x>
+	<y>168</y>
+       <z>168</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>431</my_id>
+	<x>148</x>
+	<y>37</y>
+       <z>222</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>432</my_id>
+	<x>26</x>
+	<y>206</y>
+       <z>102</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>433</my_id>
+	<x>43</x>
+	<y>225</y>
+       <z>171</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>434</my_id>
+	<x>164</x>
+	<y>281</y>
+       <z>24</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>435</my_id>
+	<x>166</x>
+	<y>62</y>
+       <z>200</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>436</my_id>
+	<x>189</x>
+	<y>156</y>
+       <z>261</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>437</my_id>
+	<x>12</x>
+	<y>145</y>
+       <z>52</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>438</my_id>
+	<x>66</x>
+	<y>18</y>
+       <z>76</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>439</my_id>
+	<x>115</x>
+	<y>77</y>
+       <z>62</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>440</my_id>
+	<x>77</x>
+	<y>103</y>
+       <z>230</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>441</my_id>
+	<x>78</x>
+	<y>251</y>
+       <z>100</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>442</my_id>
+	<x>2</x>
+	<y>110</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>443</my_id>
+	<x>236</x>
+	<y>153</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>444</my_id>
+	<x>108</x>
+	<y>150</y>
+       <z>216</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>445</my_id>
+	<x>264</x>
+	<y>17</y>
+       <z>111</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>446</my_id>
+	<x>166</x>
+	<y>39</y>
+       <z>100</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>447</my_id>
+	<x>260</x>
+	<y>51</y>
+       <z>78</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>448</my_id>
+	<x>146</x>
+	<y>250</y>
+       <z>229</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>449</my_id>
+	<x>222</x>
+	<y>198</y>
+       <z>7</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>450</my_id>
+	<x>118</x>
+	<y>276</y>
+       <z>242</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>451</my_id>
+	<x>181</x>
+	<y>187</y>
+       <z>194</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>452</my_id>
+	<x>282</x>
+	<y>189</y>
+       <z>137</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>453</my_id>
+	<x>123</x>
+	<y>126</y>
+       <z>123</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>454</my_id>
+	<x>189</x>
+	<y>68</y>
+       <z>273</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>455</my_id>
+	<x>238</x>
+	<y>33</y>
+       <z>290</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>456</my_id>
+	<x>51</x>
+	<y>32</y>
+       <z>30</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>457</my_id>
+	<x>283</x>
+	<y>293</y>
+       <z>214</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>458</my_id>
+	<x>63</x>
+	<y>140</y>
+       <z>297</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>459</my_id>
+	<x>292</x>
+	<y>195</y>
+       <z>196</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>460</my_id>
+	<x>132</x>
+	<y>146</y>
+       <z>6</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>461</my_id>
+	<x>76</x>
+	<y>29</y>
+       <z>194</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>462</my_id>
+	<x>103</x>
+	<y>144</y>
+       <z>216</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>463</my_id>
+	<x>74</x>
+	<y>267</y>
+       <z>176</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>464</my_id>
+	<x>197</x>
+	<y>289</y>
+       <z>244</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>465</my_id>
+	<x>5</x>
+	<y>229</y>
+       <z>110</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>466</my_id>
+	<x>295</x>
+	<y>113</y>
+       <z>143</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>467</my_id>
+	<x>159</x>
+	<y>97</y>
+       <z>269</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>468</my_id>
+	<x>206</x>
+	<y>292</y>
+       <z>242</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>469</my_id>
+	<x>204</x>
+	<y>285</y>
+       <z>138</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>470</my_id>
+	<x>233</x>
+	<y>251</y>
+       <z>285</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>471</my_id>
+	<x>240</x>
+	<y>160</y>
+       <z>147</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>472</my_id>
+	<x>267</x>
+	<y>96</y>
+       <z>291</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>473</my_id>
+	<x>184</x>
+	<y>170</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>474</my_id>
+	<x>61</x>
+	<y>201</y>
+       <z>82</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>475</my_id>
+	<x>138</x>
+	<y>206</y>
+       <z>144</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>476</my_id>
+	<x>249</x>
+	<y>202</y>
+       <z>257</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>477</my_id>
+	<x>225</x>
+	<y>194</y>
+       <z>188</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>478</my_id>
+	<x>195</x>
+	<y>233</y>
+       <z>181</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>479</my_id>
+	<x>138</x>
+	<y>138</y>
+       <z>168</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>480</my_id>
+	<x>109</x>
+	<y>205</y>
+       <z>252</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>481</my_id>
+	<x>227</x>
+	<y>146</y>
+       <z>113</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>482</my_id>
+	<x>75</x>
+	<y>114</y>
+       <z>209</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>483</my_id>
+	<x>199</x>
+	<y>131</y>
+       <z>81</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>484</my_id>
+	<x>291</x>
+	<y>193</y>
+       <z>282</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>485</my_id>
+	<x>207</x>
+	<y>32</y>
+       <z>189</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>486</my_id>
+	<x>52</x>
+	<y>114</y>
+       <z>224</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>487</my_id>
+	<x>143</x>
+	<y>40</y>
+       <z>252</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>488</my_id>
+	<x>32</x>
+	<y>68</y>
+       <z>186</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>489</my_id>
+	<x>213</x>
+	<y>206</y>
+       <z>158</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>490</my_id>
+	<x>214</x>
+	<y>149</y>
+       <z>64</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>491</my_id>
+	<x>167</x>
+	<y>77</y>
+       <z>43</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>492</my_id>
+	<x>280</x>
+	<y>285</y>
+       <z>157</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>493</my_id>
+	<x>191</x>
+	<y>185</y>
+       <z>121</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>494</my_id>
+	<x>105</x>
+	<y>11</y>
+       <z>147</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>495</my_id>
+	<x>220</x>
+	<y>218</y>
+       <z>13</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>496</my_id>
+	<x>110</x>
+	<y>103</y>
+       <z>127</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>497</my_id>
+	<x>167</x>
+	<y>246</y>
+       <z>1</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>498</my_id>
+	<x>120</x>
+	<y>278</y>
+       <z>69</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>499</my_id>
+	<x>8</x>
+	<y>26</y>
+       <z>276</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>500</my_id>
+	<x>166</x>
+	<y>240</y>
+       <z>258</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>501</my_id>
+	<x>63</x>
+	<y>109</y>
+       <z>36</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>502</my_id>
+	<x>106</x>
+	<y>222</y>
+       <z>22</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>503</my_id>
+	<x>96</x>
+	<y>246</y>
+       <z>208</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>504</my_id>
+	<x>217</x>
+	<y>52</y>
+       <z>52</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>505</my_id>
+	<x>66</x>
+	<y>272</y>
+       <z>270</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>506</my_id>
+	<x>79</x>
+	<y>215</y>
+       <z>74</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>507</my_id>
+	<x>206</x>
+	<y>84</y>
+       <z>154</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>508</my_id>
+	<x>40</x>
+	<y>37</y>
+       <z>133</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>509</my_id>
+	<x>110</x>
+	<y>45</y>
+       <z>159</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>510</my_id>
+	<x>87</x>
+	<y>44</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>511</my_id>
+	<x>46</x>
+	<y>107</y>
+       <z>175</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>512</my_id>
+	<x>214</x>
+	<y>213</y>
+       <z>98</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>513</my_id>
+	<x>237</x>
+	<y>10</y>
+       <z>46</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>514</my_id>
+	<x>278</x>
+	<y>61</y>
+       <z>230</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>515</my_id>
+	<x>31</x>
+	<y>127</y>
+       <z>37</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>516</my_id>
+	<x>134</x>
+	<y>39</y>
+       <z>252</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>517</my_id>
+	<x>41</x>
+	<y>78</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>518</my_id>
+	<x>195</x>
+	<y>119</y>
+       <z>40</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>519</my_id>
+	<x>162</x>
+	<y>229</y>
+       <z>217</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>520</my_id>
+	<x>154</x>
+	<y>149</y>
+       <z>95</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>521</my_id>
+	<x>88</x>
+	<y>28</y>
+       <z>202</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>522</my_id>
+	<x>96</x>
+	<y>242</y>
+       <z>249</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>523</my_id>
+	<x>195</x>
+	<y>13</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>524</my_id>
+	<x>74</x>
+	<y>124</y>
+       <z>153</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>525</my_id>
+	<x>137</x>
+	<y>287</y>
+       <z>113</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>526</my_id>
+	<x>174</x>
+	<y>122</y>
+       <z>284</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>527</my_id>
+	<x>260</x>
+	<y>296</y>
+       <z>64</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>528</my_id>
+	<x>262</x>
+	<y>25</y>
+       <z>183</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>529</my_id>
+	<x>3</x>
+	<y>187</y>
+       <z>245</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>530</my_id>
+	<x>54</x>
+	<y>175</y>
+       <z>95</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>531</my_id>
+	<x>149</x>
+	<y>96</y>
+       <z>123</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>532</my_id>
+	<x>52</x>
+	<y>193</y>
+       <z>198</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>533</my_id>
+	<x>134</x>
+	<y>221</y>
+       <z>212</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>534</my_id>
+	<x>60</x>
+	<y>295</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>535</my_id>
+	<x>46</x>
+	<y>133</y>
+       <z>158</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>536</my_id>
+	<x>160</x>
+	<y>141</y>
+       <z>113</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>537</my_id>
+	<x>277</x>
+	<y>102</y>
+       <z>110</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>538</my_id>
+	<x>42</x>
+	<y>197</y>
+       <z>136</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>539</my_id>
+	<x>225</x>
+	<y>201</y>
+       <z>156</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>540</my_id>
+	<x>171</x>
+	<y>255</y>
+       <z>32</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>541</my_id>
+	<x>99</x>
+	<y>105</y>
+       <z>129</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>542</my_id>
+	<x>222</x>
+	<y>289</y>
+       <z>155</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>543</my_id>
+	<x>254</x>
+	<y>257</y>
+       <z>77</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>544</my_id>
+	<x>0</x>
+	<y>18</y>
+       <z>205</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>545</my_id>
+	<x>169</x>
+	<y>64</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>546</my_id>
+	<x>160</x>
+	<y>57</y>
+       <z>13</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>547</my_id>
+	<x>274</x>
+	<y>36</y>
+       <z>115</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>548</my_id>
+	<x>217</x>
+	<y>210</y>
+       <z>14</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>549</my_id>
+	<x>186</x>
+	<y>269</y>
+       <z>48</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>550</my_id>
+	<x>176</x>
+	<y>273</y>
+       <z>136</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>551</my_id>
+	<x>41</x>
+	<y>74</y>
+       <z>74</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>552</my_id>
+	<x>3</x>
+	<y>129</y>
+       <z>64</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>553</my_id>
+	<x>158</x>
+	<y>84</y>
+       <z>22</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>554</my_id>
+	<x>235</x>
+	<y>84</y>
+       <z>172</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>555</my_id>
+	<x>141</x>
+	<y>254</y>
+       <z>70</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>556</my_id>
+	<x>14</x>
+	<y>247</y>
+       <z>127</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>557</my_id>
+	<x>159</x>
+	<y>222</y>
+       <z>295</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>558</my_id>
+	<x>275</x>
+	<y>273</y>
+       <z>207</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>559</my_id>
+	<x>122</x>
+	<y>292</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>560</my_id>
+	<x>3</x>
+	<y>169</y>
+       <z>151</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>561</my_id>
+	<x>139</x>
+	<y>211</y>
+       <z>225</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>562</my_id>
+	<x>213</x>
+	<y>47</y>
+       <z>188</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>563</my_id>
+	<x>110</x>
+	<y>206</y>
+       <z>272</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>564</my_id>
+	<x>265</x>
+	<y>274</y>
+       <z>190</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>565</my_id>
+	<x>138</x>
+	<y>249</y>
+       <z>277</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>566</my_id>
+	<x>208</x>
+	<y>263</y>
+       <z>225</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>567</my_id>
+	<x>169</x>
+	<y>255</y>
+       <z>281</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>568</my_id>
+	<x>165</x>
+	<y>231</y>
+       <z>255</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>569</my_id>
+	<x>205</x>
+	<y>186</y>
+       <z>81</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>570</my_id>
+	<x>83</x>
+	<y>22</y>
+       <z>251</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>571</my_id>
+	<x>235</x>
+	<y>161</y>
+       <z>295</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>572</my_id>
+	<x>293</x>
+	<y>207</y>
+       <z>43</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>573</my_id>
+	<x>182</x>
+	<y>151</y>
+       <z>82</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>574</my_id>
+	<x>288</x>
+	<y>117</y>
+       <z>58</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>575</my_id>
+	<x>179</x>
+	<y>88</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>576</my_id>
+	<x>157</x>
+	<y>130</y>
+       <z>104</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>577</my_id>
+	<x>83</x>
+	<y>0</y>
+       <z>60</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>578</my_id>
+	<x>65</x>
+	<y>297</y>
+       <z>125</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>579</my_id>
+	<x>153</x>
+	<y>204</y>
+       <z>144</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>580</my_id>
+	<x>235</x>
+	<y>120</y>
+       <z>167</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>581</my_id>
+	<x>20</x>
+	<y>188</y>
+       <z>161</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>582</my_id>
+	<x>148</x>
+	<y>183</y>
+       <z>202</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>583</my_id>
+	<x>24</x>
+	<y>198</y>
+       <z>54</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>584</my_id>
+	<x>107</x>
+	<y>20</y>
+       <z>171</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>585</my_id>
+	<x>297</x>
+	<y>199</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>586</my_id>
+	<x>138</x>
+	<y>57</y>
+       <z>222</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>587</my_id>
+	<x>75</x>
+	<y>273</y>
+       <z>55</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>588</my_id>
+	<x>267</x>
+	<y>171</y>
+       <z>54</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>589</my_id>
+	<x>93</x>
+	<y>26</y>
+       <z>258</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>590</my_id>
+	<x>71</x>
+	<y>261</y>
+       <z>211</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>591</my_id>
+	<x>71</x>
+	<y>281</y>
+       <z>101</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>592</my_id>
+	<x>232</x>
+	<y>262</y>
+       <z>284</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>593</my_id>
+	<x>135</x>
+	<y>286</y>
+       <z>16</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>594</my_id>
+	<x>22</x>
+	<y>94</y>
+       <z>37</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>595</my_id>
+	<x>26</x>
+	<y>224</y>
+       <z>69</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>596</my_id>
+	<x>119</x>
+	<y>63</y>
+       <z>259</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>597</my_id>
+	<x>42</x>
+	<y>138</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>598</my_id>
+	<x>98</x>
+	<y>107</y>
+       <z>105</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>599</my_id>
+	<x>284</x>
+	<y>33</y>
+       <z>131</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>600</my_id>
+	<x>76</x>
+	<y>236</y>
+       <z>225</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>601</my_id>
+	<x>287</x>
+	<y>8</y>
+       <z>40</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>602</my_id>
+	<x>89</x>
+	<y>74</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>603</my_id>
+	<x>206</x>
+	<y>209</y>
+       <z>290</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>604</my_id>
+	<x>223</x>
+	<y>65</y>
+       <z>217</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>605</my_id>
+	<x>93</x>
+	<y>91</y>
+       <z>143</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>606</my_id>
+	<x>162</x>
+	<y>210</y>
+       <z>206</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>607</my_id>
+	<x>122</x>
+	<y>86</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>608</my_id>
+	<x>188</x>
+	<y>17</y>
+       <z>118</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>609</my_id>
+	<x>294</x>
+	<y>2</y>
+       <z>151</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>610</my_id>
+	<x>258</x>
+	<y>78</y>
+       <z>89</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>611</my_id>
+	<x>18</x>
+	<y>198</y>
+       <z>229</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>612</my_id>
+	<x>58</x>
+	<y>288</y>
+       <z>4</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>613</my_id>
+	<x>194</x>
+	<y>195</y>
+       <z>47</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>614</my_id>
+	<x>185</x>
+	<y>251</y>
+       <z>112</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>615</my_id>
+	<x>235</x>
+	<y>177</y>
+       <z>203</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>616</my_id>
+	<x>79</x>
+	<y>41</y>
+       <z>247</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>617</my_id>
+	<x>119</x>
+	<y>295</y>
+       <z>34</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>618</my_id>
+	<x>130</x>
+	<y>185</y>
+       <z>51</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>619</my_id>
+	<x>248</x>
+	<y>13</y>
+       <z>185</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>620</my_id>
+	<x>232</x>
+	<y>104</y>
+       <z>96</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>621</my_id>
+	<x>154</x>
+	<y>122</y>
+       <z>294</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>622</my_id>
+	<x>85</x>
+	<y>14</y>
+       <z>116</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>623</my_id>
+	<x>89</x>
+	<y>208</y>
+       <z>145</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>624</my_id>
+	<x>136</x>
+	<y>226</y>
+       <z>97</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>625</my_id>
+	<x>81</x>
+	<y>294</y>
+       <z>275</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>626</my_id>
+	<x>285</x>
+	<y>207</y>
+       <z>149</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>627</my_id>
+	<x>233</x>
+	<y>27</y>
+       <z>277</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>628</my_id>
+	<x>100</x>
+	<y>157</y>
+       <z>295</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>629</my_id>
+	<x>151</x>
+	<y>238</y>
+       <z>9</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>630</my_id>
+	<x>169</x>
+	<y>171</y>
+       <z>246</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>631</my_id>
+	<x>265</x>
+	<y>27</y>
+       <z>69</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>632</my_id>
+	<x>93</x>
+	<y>112</y>
+       <z>215</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>633</my_id>
+	<x>210</x>
+	<y>34</y>
+       <z>256</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>634</my_id>
+	<x>56</x>
+	<y>4</y>
+       <z>16</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>635</my_id>
+	<x>285</x>
+	<y>85</y>
+       <z>12</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>636</my_id>
+	<x>94</x>
+	<y>203</y>
+       <z>219</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>637</my_id>
+	<x>76</x>
+	<y>137</y>
+       <z>79</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>638</my_id>
+	<x>55</x>
+	<y>237</y>
+       <z>69</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>639</my_id>
+	<x>51</x>
+	<y>221</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>640</my_id>
+	<x>193</x>
+	<y>223</y>
+       <z>179</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>641</my_id>
+	<x>272</x>
+	<y>22</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>642</my_id>
+	<x>174</x>
+	<y>116</y>
+       <z>151</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>643</my_id>
+	<x>91</x>
+	<y>159</y>
+       <z>19</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>644</my_id>
+	<x>180</x>
+	<y>48</y>
+       <z>23</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>645</my_id>
+	<x>197</x>
+	<y>166</y>
+       <z>240</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>646</my_id>
+	<x>209</x>
+	<y>261</y>
+       <z>145</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>647</my_id>
+	<x>261</x>
+	<y>170</y>
+       <z>115</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>648</my_id>
+	<x>41</x>
+	<y>58</y>
+       <z>186</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>649</my_id>
+	<x>110</x>
+	<y>242</y>
+       <z>108</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>650</my_id>
+	<x>250</x>
+	<y>136</y>
+       <z>165</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>651</my_id>
+	<x>262</x>
+	<y>109</y>
+       <z>187</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>652</my_id>
+	<x>3</x>
+	<y>283</y>
+       <z>136</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>653</my_id>
+	<x>286</x>
+	<y>207</y>
+       <z>295</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>654</my_id>
+	<x>6</x>
+	<y>89</y>
+       <z>44</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>655</my_id>
+	<x>161</x>
+	<y>286</y>
+       <z>211</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>656</my_id>
+	<x>103</x>
+	<y>29</y>
+       <z>6</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>657</my_id>
+	<x>248</x>
+	<y>123</y>
+       <z>176</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>658</my_id>
+	<x>64</x>
+	<y>164</y>
+       <z>235</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>659</my_id>
+	<x>250</x>
+	<y>107</y>
+       <z>11</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>660</my_id>
+	<x>192</x>
+	<y>190</y>
+       <z>147</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>661</my_id>
+	<x>190</x>
+	<y>153</y>
+       <z>89</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>662</my_id>
+	<x>78</x>
+	<y>156</y>
+       <z>205</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>663</my_id>
+	<x>215</x>
+	<y>144</y>
+       <z>114</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>664</my_id>
+	<x>211</x>
+	<y>150</y>
+       <z>36</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>665</my_id>
+	<x>89</x>
+	<y>145</y>
+       <z>155</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>666</my_id>
+	<x>133</x>
+	<y>248</y>
+       <z>184</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>667</my_id>
+	<x>271</x>
+	<y>30</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>668</my_id>
+	<x>280</x>
+	<y>94</y>
+       <z>5</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>669</my_id>
+	<x>49</x>
+	<y>178</y>
+       <z>244</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>670</my_id>
+	<x>60</x>
+	<y>203</y>
+       <z>135</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>671</my_id>
+	<x>40</x>
+	<y>94</y>
+       <z>288</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>672</my_id>
+	<x>129</x>
+	<y>5</y>
+       <z>278</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>673</my_id>
+	<x>168</x>
+	<y>220</y>
+       <z>123</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>674</my_id>
+	<x>115</x>
+	<y>265</y>
+       <z>106</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>675</my_id>
+	<x>151</x>
+	<y>187</y>
+       <z>251</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>676</my_id>
+	<x>7</x>
+	<y>21</y>
+       <z>200</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>677</my_id>
+	<x>24</x>
+	<y>125</y>
+       <z>230</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>678</my_id>
+	<x>164</x>
+	<y>106</y>
+       <z>158</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>679</my_id>
+	<x>2</x>
+	<y>156</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>680</my_id>
+	<x>246</x>
+	<y>216</y>
+       <z>205</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>681</my_id>
+	<x>214</x>
+	<y>90</y>
+       <z>0</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>682</my_id>
+	<x>36</x>
+	<y>219</y>
+       <z>137</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>683</my_id>
+	<x>15</x>
+	<y>220</y>
+       <z>59</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>684</my_id>
+	<x>138</x>
+	<y>36</y>
+       <z>25</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>685</my_id>
+	<x>78</x>
+	<y>20</y>
+       <z>212</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>686</my_id>
+	<x>30</x>
+	<y>159</y>
+       <z>66</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>687</my_id>
+	<x>64</x>
+	<y>183</y>
+       <z>191</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>688</my_id>
+	<x>127</x>
+	<y>180</y>
+       <z>130</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>689</my_id>
+	<x>118</x>
+	<y>182</y>
+       <z>286</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>690</my_id>
+	<x>287</x>
+	<y>261</y>
+       <z>37</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>691</my_id>
+	<x>26</x>
+	<y>9</y>
+       <z>127</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>692</my_id>
+	<x>158</x>
+	<y>46</y>
+       <z>179</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>693</my_id>
+	<x>296</x>
+	<y>61</y>
+       <z>101</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>694</my_id>
+	<x>56</x>
+	<y>33</y>
+       <z>269</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>695</my_id>
+	<x>213</x>
+	<y>111</y>
+       <z>290</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>696</my_id>
+	<x>258</x>
+	<y>273</y>
+       <z>150</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>697</my_id>
+	<x>157</x>
+	<y>38</y>
+       <z>167</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>698</my_id>
+	<x>181</x>
+	<y>166</y>
+       <z>180</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>699</my_id>
+	<x>12</x>
+	<y>284</y>
+       <z>196</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>700</my_id>
+	<x>0</x>
+	<y>106</y>
+       <z>158</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>701</my_id>
+	<x>169</x>
+	<y>132</y>
+       <z>1</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>702</my_id>
+	<x>129</x>
+	<y>291</y>
+       <z>47</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>703</my_id>
+	<x>9</x>
+	<y>121</y>
+       <z>240</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>704</my_id>
+	<x>242</x>
+	<y>177</y>
+       <z>273</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>705</my_id>
+	<x>46</x>
+	<y>223</y>
+       <z>217</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>706</my_id>
+	<x>37</x>
+	<y>182</y>
+       <z>192</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>707</my_id>
+	<x>20</x>
+	<y>40</y>
+       <z>63</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>708</my_id>
+	<x>20</x>
+	<y>221</y>
+       <z>229</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>709</my_id>
+	<x>201</x>
+	<y>66</y>
+       <z>48</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>710</my_id>
+	<x>98</x>
+	<y>198</y>
+       <z>286</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>711</my_id>
+	<x>89</x>
+	<y>68</y>
+       <z>251</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>712</my_id>
+	<x>90</x>
+	<y>30</y>
+       <z>76</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>713</my_id>
+	<x>269</x>
+	<y>172</y>
+       <z>197</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>714</my_id>
+	<x>211</x>
+	<y>115</y>
+       <z>75</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>715</my_id>
+	<x>18</x>
+	<y>293</y>
+       <z>131</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>716</my_id>
+	<x>69</x>
+	<y>31</y>
+       <z>14</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>717</my_id>
+	<x>261</x>
+	<y>184</y>
+       <z>186</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>718</my_id>
+	<x>25</x>
+	<y>37</y>
+       <z>240</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>719</my_id>
+	<x>88</x>
+	<y>238</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>720</my_id>
+	<x>268</x>
+	<y>169</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>721</my_id>
+	<x>88</x>
+	<y>92</y>
+       <z>108</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>722</my_id>
+	<x>40</x>
+	<y>15</y>
+       <z>270</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>723</my_id>
+	<x>117</x>
+	<y>118</y>
+       <z>143</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>724</my_id>
+	<x>15</x>
+	<y>30</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>725</my_id>
+	<x>223</x>
+	<y>180</y>
+       <z>86</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>726</my_id>
+	<x>55</x>
+	<y>249</y>
+       <z>250</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>727</my_id>
+	<x>202</x>
+	<y>44</y>
+       <z>135</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>728</my_id>
+	<x>221</x>
+	<y>202</y>
+       <z>172</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>729</my_id>
+	<x>295</x>
+	<y>123</y>
+       <z>244</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>730</my_id>
+	<x>136</x>
+	<y>92</y>
+       <z>246</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>731</my_id>
+	<x>175</x>
+	<y>180</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>732</my_id>
+	<x>116</x>
+	<y>53</y>
+       <z>187</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>733</my_id>
+	<x>88</x>
+	<y>170</y>
+       <z>6</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>734</my_id>
+	<x>231</x>
+	<y>19</y>
+       <z>168</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>735</my_id>
+	<x>156</x>
+	<y>75</y>
+       <z>181</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>736</my_id>
+	<x>243</x>
+	<y>262</y>
+       <z>264</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>737</my_id>
+	<x>194</x>
+	<y>297</y>
+       <z>9</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>738</my_id>
+	<x>162</x>
+	<y>220</y>
+       <z>44</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>739</my_id>
+	<x>167</x>
+	<y>216</y>
+       <z>167</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>740</my_id>
+	<x>112</x>
+	<y>53</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>741</my_id>
+	<x>192</x>
+	<y>228</y>
+       <z>105</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>742</my_id>
+	<x>64</x>
+	<y>178</y>
+       <z>159</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>743</my_id>
+	<x>251</x>
+	<y>266</y>
+       <z>162</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>744</my_id>
+	<x>90</x>
+	<y>31</y>
+       <z>14</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>745</my_id>
+	<x>258</x>
+	<y>188</y>
+       <z>221</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>746</my_id>
+	<x>141</x>
+	<y>132</y>
+       <z>185</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>747</my_id>
+	<x>238</x>
+	<y>159</y>
+       <z>183</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>748</my_id>
+	<x>247</x>
+	<y>22</y>
+       <z>236</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>749</my_id>
+	<x>125</x>
+	<y>189</y>
+       <z>153</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>750</my_id>
+	<x>125</x>
+	<y>135</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>751</my_id>
+	<x>218</x>
+	<y>28</y>
+       <z>101</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>752</my_id>
+	<x>156</x>
+	<y>92</y>
+       <z>279</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>753</my_id>
+	<x>148</x>
+	<y>45</y>
+       <z>246</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>754</my_id>
+	<x>12</x>
+	<y>135</y>
+       <z>277</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>755</my_id>
+	<x>158</x>
+	<y>227</y>
+       <z>298</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>756</my_id>
+	<x>81</x>
+	<y>201</y>
+       <z>131</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>757</my_id>
+	<x>99</x>
+	<y>140</y>
+       <z>290</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>758</my_id>
+	<x>282</x>
+	<y>220</y>
+       <z>145</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>759</my_id>
+	<x>220</x>
+	<y>46</y>
+       <z>36</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>760</my_id>
+	<x>206</x>
+	<y>172</y>
+       <z>171</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>761</my_id>
+	<x>246</x>
+	<y>223</y>
+       <z>199</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>762</my_id>
+	<x>48</x>
+	<y>80</y>
+       <z>124</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>763</my_id>
+	<x>28</x>
+	<y>229</y>
+       <z>2</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>764</my_id>
+	<x>107</x>
+	<y>74</y>
+       <z>270</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>765</my_id>
+	<x>217</x>
+	<y>65</y>
+       <z>198</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>766</my_id>
+	<x>217</x>
+	<y>146</y>
+       <z>232</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>767</my_id>
+	<x>181</x>
+	<y>78</y>
+       <z>73</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>768</my_id>
+	<x>6</x>
+	<y>62</y>
+       <z>126</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>769</my_id>
+	<x>151</x>
+	<y>115</y>
+       <z>173</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>770</my_id>
+	<x>20</x>
+	<y>22</y>
+       <z>178</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>771</my_id>
+	<x>24</x>
+	<y>101</y>
+       <z>102</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>772</my_id>
+	<x>56</x>
+	<y>281</y>
+       <z>15</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>773</my_id>
+	<x>181</x>
+	<y>142</y>
+       <z>77</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>774</my_id>
+	<x>183</x>
+	<y>249</y>
+       <z>283</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>775</my_id>
+	<x>154</x>
+	<y>1</y>
+       <z>50</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>776</my_id>
+	<x>185</x>
+	<y>51</y>
+       <z>29</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>777</my_id>
+	<x>118</x>
+	<y>232</y>
+       <z>108</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>778</my_id>
+	<x>24</x>
+	<y>71</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>779</my_id>
+	<x>151</x>
+	<y>56</y>
+       <z>250</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>780</my_id>
+	<x>157</x>
+	<y>76</y>
+       <z>105</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>781</my_id>
+	<x>36</x>
+	<y>101</y>
+       <z>207</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>782</my_id>
+	<x>270</x>
+	<y>157</y>
+       <z>189</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>783</my_id>
+	<x>118</x>
+	<y>171</y>
+       <z>165</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>784</my_id>
+	<x>196</x>
+	<y>188</y>
+       <z>115</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>785</my_id>
+	<x>13</x>
+	<y>43</y>
+       <z>248</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>786</my_id>
+	<x>63</x>
+	<y>62</y>
+       <z>0</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>787</my_id>
+	<x>225</x>
+	<y>13</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>788</my_id>
+	<x>166</x>
+	<y>38</y>
+       <z>5</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>789</my_id>
+	<x>169</x>
+	<y>22</y>
+       <z>61</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>790</my_id>
+	<x>120</x>
+	<y>179</y>
+       <z>270</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>791</my_id>
+	<x>225</x>
+	<y>48</y>
+       <z>204</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>792</my_id>
+	<x>265</x>
+	<y>19</y>
+       <z>194</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>793</my_id>
+	<x>288</x>
+	<y>137</y>
+       <z>67</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>794</my_id>
+	<x>154</x>
+	<y>166</y>
+       <z>255</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>795</my_id>
+	<x>269</x>
+	<y>13</y>
+       <z>131</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>796</my_id>
+	<x>52</x>
+	<y>76</y>
+       <z>26</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>797</my_id>
+	<x>52</x>
+	<y>134</y>
+       <z>40</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>798</my_id>
+	<x>285</x>
+	<y>1</y>
+       <z>78</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>799</my_id>
+	<x>124</x>
+	<y>170</y>
+       <z>100</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>800</my_id>
+	<x>18</x>
+	<y>123</y>
+       <z>112</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>801</my_id>
+	<x>121</x>
+	<y>182</y>
+       <z>160</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>802</my_id>
+	<x>26</x>
+	<y>148</y>
+       <z>12</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>803</my_id>
+	<x>221</x>
+	<y>137</y>
+       <z>281</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>804</my_id>
+	<x>121</x>
+	<y>291</y>
+       <z>149</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>805</my_id>
+	<x>209</x>
+	<y>95</y>
+       <z>162</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>806</my_id>
+	<x>41</x>
+	<y>147</y>
+       <z>71</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>807</my_id>
+	<x>68</x>
+	<y>199</y>
+       <z>39</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>808</my_id>
+	<x>240</x>
+	<y>19</y>
+       <z>40</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>809</my_id>
+	<x>19</x>
+	<y>275</y>
+       <z>44</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>810</my_id>
+	<x>251</x>
+	<y>126</y>
+       <z>167</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>811</my_id>
+	<x>196</x>
+	<y>248</y>
+       <z>50</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>812</my_id>
+	<x>57</x>
+	<y>107</y>
+       <z>199</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>813</my_id>
+	<x>69</x>
+	<y>29</y>
+       <z>169</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>814</my_id>
+	<x>51</x>
+	<y>282</y>
+       <z>162</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>815</my_id>
+	<x>33</x>
+	<y>192</y>
+       <z>90</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>816</my_id>
+	<x>28</x>
+	<y>67</y>
+       <z>70</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>817</my_id>
+	<x>232</x>
+	<y>135</y>
+       <z>102</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>818</my_id>
+	<x>271</x>
+	<y>76</y>
+       <z>121</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>819</my_id>
+	<x>12</x>
+	<y>227</y>
+       <z>229</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>820</my_id>
+	<x>56</x>
+	<y>12</y>
+       <z>57</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>821</my_id>
+	<x>57</x>
+	<y>208</y>
+       <z>138</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>822</my_id>
+	<x>239</x>
+	<y>98</y>
+       <z>245</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>823</my_id>
+	<x>139</x>
+	<y>167</y>
+       <z>275</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>824</my_id>
+	<x>142</x>
+	<y>51</y>
+       <z>91</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>825</my_id>
+	<x>137</x>
+	<y>85</y>
+       <z>284</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>826</my_id>
+	<x>227</x>
+	<y>113</y>
+       <z>52</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>827</my_id>
+	<x>130</x>
+	<y>46</y>
+       <z>20</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>828</my_id>
+	<x>232</x>
+	<y>150</y>
+       <z>228</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>829</my_id>
+	<x>55</x>
+	<y>163</y>
+       <z>156</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>830</my_id>
+	<x>117</x>
+	<y>52</y>
+       <z>1</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>831</my_id>
+	<x>174</x>
+	<y>241</y>
+       <z>42</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>832</my_id>
+	<x>13</x>
+	<y>182</y>
+       <z>140</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>833</my_id>
+	<x>92</x>
+	<y>154</y>
+       <z>140</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>834</my_id>
+	<x>68</x>
+	<y>296</y>
+       <z>191</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>835</my_id>
+	<x>291</x>
+	<y>134</y>
+       <z>276</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>836</my_id>
+	<x>276</x>
+	<y>194</y>
+       <z>223</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>837</my_id>
+	<x>29</x>
+	<y>25</y>
+       <z>102</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>838</my_id>
+	<x>49</x>
+	<y>258</y>
+       <z>253</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>839</my_id>
+	<x>277</x>
+	<y>146</y>
+       <z>249</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>840</my_id>
+	<x>266</x>
+	<y>263</y>
+       <z>134</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>841</my_id>
+	<x>100</x>
+	<y>271</y>
+       <z>77</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>842</my_id>
+	<x>142</x>
+	<y>117</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>843</my_id>
+	<x>115</x>
+	<y>209</y>
+       <z>246</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>844</my_id>
+	<x>255</x>
+	<y>110</y>
+       <z>244</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>845</my_id>
+	<x>148</x>
+	<y>103</y>
+       <z>211</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>846</my_id>
+	<x>257</x>
+	<y>80</y>
+       <z>107</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>847</my_id>
+	<x>14</x>
+	<y>242</y>
+       <z>132</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>848</my_id>
+	<x>249</x>
+	<y>124</y>
+       <z>91</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>849</my_id>
+	<x>36</x>
+	<y>235</y>
+       <z>70</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>850</my_id>
+	<x>118</x>
+	<y>35</y>
+       <z>35</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>851</my_id>
+	<x>252</x>
+	<y>136</y>
+       <z>7</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>852</my_id>
+	<x>162</x>
+	<y>111</y>
+       <z>256</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>853</my_id>
+	<x>254</x>
+	<y>227</y>
+       <z>167</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>854</my_id>
+	<x>35</x>
+	<y>16</y>
+       <z>277</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>855</my_id>
+	<x>279</x>
+	<y>296</y>
+       <z>213</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>856</my_id>
+	<x>191</x>
+	<y>255</y>
+       <z>294</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>857</my_id>
+	<x>298</x>
+	<y>102</y>
+       <z>70</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>858</my_id>
+	<x>264</x>
+	<y>52</y>
+       <z>194</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>859</my_id>
+	<x>188</x>
+	<y>88</y>
+       <z>130</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>860</my_id>
+	<x>259</x>
+	<y>206</y>
+       <z>166</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>861</my_id>
+	<x>294</x>
+	<y>292</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>862</my_id>
+	<x>134</x>
+	<y>287</y>
+       <z>246</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>863</my_id>
+	<x>91</x>
+	<y>76</y>
+       <z>174</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>864</my_id>
+	<x>91</x>
+	<y>111</y>
+       <z>24</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>865</my_id>
+	<x>202</x>
+	<y>91</y>
+       <z>21</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>866</my_id>
+	<x>116</x>
+	<y>115</y>
+       <z>109</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>867</my_id>
+	<x>243</x>
+	<y>247</y>
+       <z>212</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>868</my_id>
+	<x>14</x>
+	<y>212</y>
+       <z>97</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>869</my_id>
+	<x>209</x>
+	<y>233</y>
+       <z>19</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>870</my_id>
+	<x>172</x>
+	<y>193</y>
+       <z>58</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>871</my_id>
+	<x>39</x>
+	<y>21</y>
+       <z>51</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>872</my_id>
+	<x>174</x>
+	<y>287</y>
+       <z>172</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>873</my_id>
+	<x>254</x>
+	<y>212</y>
+       <z>248</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>874</my_id>
+	<x>261</x>
+	<y>4</y>
+       <z>60</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>875</my_id>
+	<x>285</x>
+	<y>206</y>
+       <z>283</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>876</my_id>
+	<x>8</x>
+	<y>156</y>
+       <z>99</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>877</my_id>
+	<x>117</x>
+	<y>100</y>
+       <z>179</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>878</my_id>
+	<x>162</x>
+	<y>247</y>
+       <z>224</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>879</my_id>
+	<x>260</x>
+	<y>289</y>
+       <z>159</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>880</my_id>
+	<x>279</x>
+	<y>162</y>
+       <z>185</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>881</my_id>
+	<x>170</x>
+	<y>35</y>
+       <z>207</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>882</my_id>
+	<x>55</x>
+	<y>42</y>
+       <z>195</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>883</my_id>
+	<x>227</x>
+	<y>296</y>
+       <z>240</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>884</my_id>
+	<x>176</x>
+	<y>259</y>
+       <z>245</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>885</my_id>
+	<x>69</x>
+	<y>245</y>
+       <z>284</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>886</my_id>
+	<x>53</x>
+	<y>86</y>
+       <z>273</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>887</my_id>
+	<x>284</x>
+	<y>204</y>
+       <z>75</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>888</my_id>
+	<x>165</x>
+	<y>199</y>
+       <z>155</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>889</my_id>
+	<x>222</x>
+	<y>160</y>
+       <z>145</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>890</my_id>
+	<x>82</x>
+	<y>272</y>
+       <z>140</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>891</my_id>
+	<x>268</x>
+	<y>144</y>
+       <z>175</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>892</my_id>
+	<x>9</x>
+	<y>199</y>
+       <z>51</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>893</my_id>
+	<x>37</x>
+	<y>127</y>
+       <z>48</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>894</my_id>
+	<x>278</x>
+	<y>136</y>
+       <z>140</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>895</my_id>
+	<x>224</x>
+	<y>38</y>
+       <z>219</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>896</my_id>
+	<x>42</x>
+	<y>91</y>
+       <z>138</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>897</my_id>
+	<x>17</x>
+	<y>208</y>
+       <z>175</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>898</my_id>
+	<x>224</x>
+	<y>206</y>
+       <z>76</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>899</my_id>
+	<x>80</x>
+	<y>130</y>
+       <z>236</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>900</my_id>
+	<x>58</x>
+	<y>45</y>
+       <z>43</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>901</my_id>
+	<x>198</x>
+	<y>14</y>
+       <z>187</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>902</my_id>
+	<x>207</x>
+	<y>23</y>
+       <z>219</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>903</my_id>
+	<x>258</x>
+	<y>61</y>
+       <z>179</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>904</my_id>
+	<x>139</x>
+	<y>40</y>
+       <z>148</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>905</my_id>
+	<x>113</x>
+	<y>97</y>
+       <z>186</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>906</my_id>
+	<x>165</x>
+	<y>271</y>
+       <z>110</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>907</my_id>
+	<x>4</x>
+	<y>121</y>
+       <z>19</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>908</my_id>
+	<x>180</x>
+	<y>46</y>
+       <z>59</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>909</my_id>
+	<x>256</x>
+	<y>258</y>
+       <z>189</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>910</my_id>
+	<x>26</x>
+	<y>149</y>
+       <z>234</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>911</my_id>
+	<x>201</x>
+	<y>49</y>
+       <z>82</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>912</my_id>
+	<x>89</x>
+	<y>89</y>
+       <z>237</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>913</my_id>
+	<x>141</x>
+	<y>180</y>
+       <z>131</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>914</my_id>
+	<x>21</x>
+	<y>20</y>
+       <z>4</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>915</my_id>
+	<x>169</x>
+	<y>265</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>916</my_id>
+	<x>188</x>
+	<y>131</y>
+       <z>206</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>917</my_id>
+	<x>298</x>
+	<y>268</y>
+       <z>28</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>918</my_id>
+	<x>151</x>
+	<y>149</y>
+       <z>207</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>919</my_id>
+	<x>210</x>
+	<y>238</y>
+       <z>166</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>920</my_id>
+	<x>232</x>
+	<y>97</y>
+       <z>17</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>921</my_id>
+	<x>0</x>
+	<y>0</y>
+       <z>198</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>922</my_id>
+	<x>82</x>
+	<y>221</y>
+       <z>287</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>923</my_id>
+	<x>153</x>
+	<y>64</y>
+       <z>1</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>924</my_id>
+	<x>284</x>
+	<y>217</y>
+       <z>153</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>925</my_id>
+	<x>289</x>
+	<y>220</y>
+       <z>120</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>926</my_id>
+	<x>223</x>
+	<y>109</y>
+       <z>84</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>927</my_id>
+	<x>262</x>
+	<y>241</y>
+       <z>53</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>928</my_id>
+	<x>291</x>
+	<y>225</y>
+       <z>35</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>929</my_id>
+	<x>199</x>
+	<y>136</y>
+       <z>106</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>930</my_id>
+	<x>198</x>
+	<y>201</y>
+       <z>204</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>931</my_id>
+	<x>48</x>
+	<y>201</y>
+       <z>204</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>932</my_id>
+	<x>79</x>
+	<y>117</y>
+       <z>258</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>933</my_id>
+	<x>199</x>
+	<y>270</y>
+       <z>155</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>934</my_id>
+	<x>200</x>
+	<y>255</y>
+       <z>74</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>935</my_id>
+	<x>55</x>
+	<y>78</y>
+       <z>127</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>936</my_id>
+	<x>175</x>
+	<y>135</y>
+       <z>69</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>937</my_id>
+	<x>92</x>
+	<y>98</y>
+       <z>11</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>938</my_id>
+	<x>146</x>
+	<y>90</y>
+       <z>69</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>939</my_id>
+	<x>181</x>
+	<y>122</y>
+       <z>205</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>940</my_id>
+	<x>288</x>
+	<y>154</y>
+       <z>239</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>941</my_id>
+	<x>26</x>
+	<y>202</y>
+       <z>142</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>942</my_id>
+	<x>63</x>
+	<y>115</y>
+       <z>92</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>943</my_id>
+	<x>22</x>
+	<y>15</y>
+       <z>63</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>944</my_id>
+	<x>11</x>
+	<y>216</y>
+       <z>151</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>945</my_id>
+	<x>85</x>
+	<y>104</y>
+       <z>63</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>946</my_id>
+	<x>45</x>
+	<y>112</y>
+       <z>198</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>947</my_id>
+	<x>114</x>
+	<y>204</y>
+       <z>296</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>948</my_id>
+	<x>258</x>
+	<y>183</y>
+       <z>220</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>949</my_id>
+	<x>28</x>
+	<y>198</y>
+       <z>43</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>950</my_id>
+	<x>67</x>
+	<y>187</y>
+       <z>197</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>951</my_id>
+	<x>7</x>
+	<y>46</y>
+       <z>233</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>952</my_id>
+	<x>281</x>
+	<y>109</y>
+       <z>181</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>953</my_id>
+	<x>74</x>
+	<y>263</y>
+       <z>196</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>954</my_id>
+	<x>269</x>
+	<y>274</y>
+       <z>245</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>955</my_id>
+	<x>254</x>
+	<y>192</y>
+       <z>50</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>956</my_id>
+	<x>18</x>
+	<y>237</y>
+       <z>294</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>957</my_id>
+	<x>216</x>
+	<y>185</y>
+       <z>200</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>958</my_id>
+	<x>213</x>
+	<y>276</y>
+       <z>84</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>959</my_id>
+	<x>134</x>
+	<y>5</y>
+       <z>282</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>960</my_id>
+	<x>11</x>
+	<y>204</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>961</my_id>
+	<x>41</x>
+	<y>45</y>
+       <z>181</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>962</my_id>
+	<x>107</x>
+	<y>159</y>
+       <z>290</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>963</my_id>
+	<x>288</x>
+	<y>67</y>
+       <z>88</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>964</my_id>
+	<x>19</x>
+	<y>37</y>
+       <z>195</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>965</my_id>
+	<x>264</x>
+	<y>124</y>
+       <z>89</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>966</my_id>
+	<x>148</x>
+	<y>142</y>
+       <z>159</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>967</my_id>
+	<x>143</x>
+	<y>191</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>968</my_id>
+	<x>176</x>
+	<y>106</y>
+       <z>154</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>969</my_id>
+	<x>94</x>
+	<y>73</y>
+       <z>292</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>970</my_id>
+	<x>77</x>
+	<y>216</y>
+       <z>197</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>971</my_id>
+	<x>213</x>
+	<y>258</y>
+       <z>75</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>972</my_id>
+	<x>95</x>
+	<y>198</y>
+       <z>235</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>973</my_id>
+	<x>219</x>
+	<y>188</y>
+       <z>3</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>974</my_id>
+	<x>140</x>
+	<y>207</y>
+       <z>172</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>975</my_id>
+	<x>36</x>
+	<y>5</y>
+       <z>297</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>976</my_id>
+	<x>125</x>
+	<y>153</y>
+       <z>272</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>977</my_id>
+	<x>118</x>
+	<y>130</y>
+       <z>165</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>978</my_id>
+	<x>295</x>
+	<y>139</y>
+       <z>271</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>979</my_id>
+	<x>283</x>
+	<y>233</y>
+       <z>177</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>980</my_id>
+	<x>276</x>
+	<y>144</y>
+       <z>227</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>981</my_id>
+	<x>7</x>
+	<y>58</y>
+       <z>19</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>982</my_id>
+	<x>215</x>
+	<y>285</y>
+       <z>217</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>983</my_id>
+	<x>151</x>
+	<y>205</y>
+       <z>238</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>984</my_id>
+	<x>286</x>
+	<y>46</y>
+       <z>146</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>985</my_id>
+	<x>291</x>
+	<y>215</y>
+       <z>284</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>986</my_id>
+	<x>289</x>
+	<y>173</y>
+       <z>270</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>987</my_id>
+	<x>263</x>
+	<y>291</y>
+       <z>101</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>988</my_id>
+	<x>129</x>
+	<y>121</y>
+       <z>74</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>989</my_id>
+	<x>233</x>
+	<y>237</y>
+       <z>8</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>990</my_id>
+	<x>243</x>
+	<y>214</y>
+       <z>152</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>991</my_id>
+	<x>171</x>
+	<y>54</y>
+       <z>43</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>992</my_id>
+	<x>23</x>
+	<y>102</y>
+       <z>30</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>993</my_id>
+	<x>241</x>
+	<y>253</y>
+       <z>68</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>994</my_id>
+	<x>180</x>
+	<y>73</y>
+       <z>247</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>995</my_id>
+	<x>160</x>
+	<y>66</y>
+       <z>163</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>996</my_id>
+	<x>145</x>
+	<y>188</y>
+       <z>37</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>997</my_id>
+	<x>248</x>
+	<y>152</y>
+       <z>30</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>998</my_id>
+	<x>183</x>
+	<y>114</y>
+       <z>283</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+<xagent>
+	<name>person</name>
+	<my_id>999</my_id>
+	<x>257</x>
+	<y>180</y>
+       <z>221</z>
+	<nbcom>0</nbcom>
+	<c>100</c>
+	<total>200</total>
+</xagent>
+</agents>
+</states>
+

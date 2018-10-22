@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpu:xmodel xmlns:gpu="http://www.dcs.shef.ac.uk/~paul/XMMLGPU"
+            xmlns="http://www.dcs.shef.ac.uk/~paul/XMML">
+   <name>Persons_interact</name>
+   <gpu:environment>
+      <gpu:constants>
+         <gpu:variable>
+            <type>int</type>
+            <name>height</name>
+         </gpu:variable>
+         <gpu:variable>
+            <type>int</type>
+            <name>width</name>
+         </gpu:variable>
+         <gpu:variable>
+            <type>int</type>
+            <name>radius</name>
+         </gpu:variable>
+      </gpu:constants>
+
+      <gpu:functionFiles>
+         <file>persons_interact.c</file>
+      </gpu:functionFiles>
+
+      <gpu:initFunctions>
+         <gpu:initFunction>
+            <gpu:name>initConstants</gpu:name>
+         </gpu:initFunction>
+      </gpu:initFunctions>
+   </gpu:environment>	
+
+   <!-- List of agents -->
+   <xagents>
+      <gpu:xagent>
+         <name>person</name>
+         <memory>
+            <gpu:variable>
+               <type>int</type>
+               <name>my_id</name>
+            </gpu:variable>
+            <gpu:variable>
+               <type>int</type>
+               <name>nbcom</name>
+            </gpu:variable>
+            <gpu:variable>
+               <type>int</type>
+               <name>c</name>
+            </gpu:variable>
+            <gpu:variable>
+               <type>int</type>
+               <name>total</name>
+            </gpu:variable>				
+            <gpu:variable>
+               <type>float</type>
+               <name>x</name>
+            </gpu:variable>
+            <gpu:variable>
+               <type>float</type>
+               <name>y</name>
+            </gpu:variable>
+            <gpu:variable>
+               <type>float</type>
+               <name>z</name>
+            </gpu:variable>
+         </memory>
+			
+         <!-- List of agent functions (behaviour)
+              3 behaviours : 
+              - Walk
+              - Cooperate
+              - Play
+              - Compute -->
+         <functions>          				
+            <gpu:function>
+               <name>walk</name>
+               <currentState>start</currentState>
+               <nextState>1</nextState>
+	
+               <outputs>
+                  <gpu:output>
+                     <messageName>agentLocation</messageName>
+                     <gpu:type>single_message</gpu:type>
+                  </gpu:output>
+               </outputs>
+               <gpu:reallocate>false</gpu:reallocate>
+               <gpu:RNG>true</gpu:RNG>
+            </gpu:function>
+
+            <gpu:function>
+               <name>cooperate</name>
+               <currentState>1</currentState>
+               <nextState>2</nextState>	
+	
+               <inputs>
+                  <gpu:input>
+                     <messageName>agentLocation</messageName>
+                  </gpu:input>
+               </inputs>
+
+               <outputs>
+                  <gpu:output>
+                     <messageName>agentCooperate</messageName>
+                     <gpu:type>single_message</gpu:type>
+                  </gpu:output>
+               </outputs>
+               <gpu:reallocate>false</gpu:reallocate>
+               <gpu:RNG>true</gpu:RNG>	
+            </gpu:function>
+
+            <gpu:function>
+               <name>play</name>
+               <currentState>2</currentState>
+               <nextState>3</nextState>	
+					
+               <inputs>
+                  <gpu:input>
+                     <messageName>agentCooperate</messageName>
+                  </gpu:input>
+               </inputs>
+               <gpu:reallocate>false</gpu:reallocate>
+               <gpu:RNG>true</gpu:RNG>
+            </gpu:function>
+
+            <gpu:function>
+               <name>compute</name>
+               <currentState>3</currentState>
+               <nextState>start</nextState>
+               <gpu:reallocate>false</gpu:reallocate>
+               <gpu:RNG>true</gpu:RNG>
+            </gpu:function>
+         </functions>
+
+         <states>
+            <gpu:state>
+               <name>start</name>
+            </gpu:state>
+            <gpu:state>
+               <name>1</name>
+            </gpu:state>
+            <gpu:state>
+               <name>2</name>
+            </gpu:state>
+            <gpu:state>
+               <name>3</name>
+            </gpu:state>
+            <initialState>start</initialState>
+         </states>
+
+         <gpu:type>continuous</gpu:type>
+         <gpu:bufferSize>16384</gpu:bufferSize>
+      </gpu:xagent>
+   </xagents>
+	
+     <!-- List of Messages during the simulation -->
+     <messages>	
+          <gpu:message>
+               <name>agentLocation</name>
+               <variables>
+                    <gpu:variable>
+                         <type>int</type>
+                         <name>my_id</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>float</type>
+                         <name>x</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>float</type>
+                         <name>y</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>float</type>
+                         <name>z</name>
+                    </gpu:variable>
+               </variables>
+               <gpu:partitioningSpatial>
+                    <gpu:radius>20</gpu:radius>
+                    <gpu:xmin>0.0</gpu:xmin>
+                    <gpu:xmax>300</gpu:xmax>
+                    <gpu:ymin>0.0</gpu:ymin>
+                    <gpu:ymax>300</gpu:ymax>
+                    <gpu:zmin>0.0</gpu:zmin>
+                    <gpu:zmax>300</gpu:zmax>
+               </gpu:partitioningSpatial>
+               <gpu:bufferSize>16384</gpu:bufferSize>
+          </gpu:message>
+
+          <gpu:message>
+               <name>agentCooperate</name>
+               <description>Message sended to others agents indicating if wants to cooperate</description>
+               <variables>
+                    <gpu:variable>
+                         <type>int</type>
+                         <name>source_id</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>int</type>
+                         <name>destination_id</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>int</type>
+                         <name>cooperate</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>float</type>
+                         <name>x</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>float</type>
+                         <name>y</name>
+                    </gpu:variable>
+                    <gpu:variable>
+                         <type>float</type>
+                         <name>z</name>
+                    </gpu:variable>
+                    <gpu:variable> <!-- Changed the type because message don't support arrays 13 int * 4 bytes plus 3 float -->
+                         <type>double</type>
+                         <name>message</name>
+                    </gpu:variable>
+               </variables>
+               <gpu:partitioningSpatial>
+                    <gpu:radius>20</gpu:radius>
+                    <gpu:xmin>0.0</gpu:xmin>
+                    <gpu:xmax>300</gpu:xmax>
+                    <gpu:ymin>0.0</gpu:ymin>
+                    <gpu:ymax>300</gpu:ymax>
+                    <gpu:zmin>0.0</gpu:zmin>
+                    <gpu:zmax>300</gpu:zmax>
+               </gpu:partitioningSpatial>
+               <gpu:bufferSize>16384</gpu:bufferSize>
+          </gpu:message>
+     </messages>
+
+     <layers>
+          <layer>
+               <gpu:layerFunction>
+                    <name>walk</name>
+               </gpu:layerFunction>
+          </layer>
+          <layer>
+               <gpu:layerFunction>
+                    <name>cooperate</name>
+               </gpu:layerFunction>
+          </layer>
+          <layer>
+               <gpu:layerFunction>
+                    <name>play</name>
+               </gpu:layerFunction>
+          </layer>
+          <layer>
+               <gpu:layerFunction>
+                    <name>compute</name>
+               </gpu:layerFunction>
+          </layer>
+     </layers>	
+</gpu:xmodel>
+
